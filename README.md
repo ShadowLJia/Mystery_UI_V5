@@ -14,5 +14,5 @@ Mystery_UI_V5 暴雪原始风格界面
 /rc 就位确认
 
 截图：
-http://img.nga.178.com/attachments/mon_201210/08/200_507281f2587ee.jpg
-http://img.nga.178.com/attachments/mon_201210/08/200_5072816eeabba.jpg
+![Image text](https://github.com/yoyo5117/Mystery_UI_V5/blob/master/Image-folder/1.jpg)
+![Image test](https://github.com/yoyo5117/Mystery_UI_V5/blob/master/Image-folder/2.jpg)
