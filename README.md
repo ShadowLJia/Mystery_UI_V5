@@ -21,5 +21,5 @@ MysteryUI_V5.是在原系统元素的基础上进行增强.美化.修剪.也就�
 /rc 就位确认
 
 截图：
-![Image text](https://github.com/yoyo5117/Mystery_UI_V5/blob/master/Image-folder/1.jpg)
-![Image test](https://github.com/yoyo5117/Mystery_UI_V5/blob/master/Image-folder/2.jpg)
+![正在加载...请稍等](https://github.com/yoyo5117/Mystery_UI_V5/blob/master/Image-folder/1.jpg)
+![正在加载...请稍等](https://github.com/yoyo5117/Mystery_UI_V5/blob/master/Image-folder/2.jpg)
